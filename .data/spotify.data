@@ -1,0 +1,11 @@
+{
+    "client_id": "5f40f4a12ae748158e713261b35eadf1",
+    "client_secret": "acedf5d08552481b8a8b1d509c88d0b0",
+    "redirect_url": "https://deadbear.ga",
+    "access_token": "BQAhGgsHCtanNPJEx5L4Au0VxOPLy5m7TRNseIUf8P6bNqWBAFi1MoCdEQhYr8xIPqAvjCG7a-9vZVv5Ipxwzpw4bWgt934AUCRs-T2F2vMFKFngMGNYwDKnQ73TwtGRlWZt3HdyQ7uk-C4n1prDFl-1izv8DmfUeMCYoSK80mRwanNvBX01R5VnJCqe2IORkLmKi9o",
+    "refresh_token": "AQBFkYXXpcgDKxATkYSFtZP_i3m9F1p3ocRJTg8c94rUqw_VXlAFDs4lpm8_9ZM0gkq-FWWN-4F0154se_pQVixgd4zRnysBmE5Rki-ZIRNgrfHvH7CxI7kgOT3gijcR0kg",
+    "expires_in": 3600,
+    "expiry": 1675637276794,
+    "token_type": "Bearer",
+    "market": "BD"
+}

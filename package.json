@@ -1,0 +1,53 @@
+{
+  "name": "anya",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start:bot": "node bot/bot.js",
+    "start:all": "node .",
+    "start:dev": "nodemon index.js",
+    "dev:bot": "nodemon bot/bot.js",
+    "format": "prettier --write ."
+  },
+  "keywords": [
+    "BearBase",
+    "DevBear"
+  ],
+  "author": "DevBear",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/opus": "^0.8.0",
+    "@discordjs/voice": "^0.14.0",
+    "@types/node": "^18.0.6",
+    "ascii-table": "^0.0.9",
+    "canvas": "^2.11.0",
+    "chalk": "^4.1.2",
+    "discord.js": "^14.7.1",
+    "express": "^4.18.2",
+    "ffmpeg-static": "^5.1.0",
+    "libsodium-wrappers": "^0.7.10",
+    "module-alias": "^2.2.2",
+    "moment": "^2.29.4",
+    "mongoose": "^6.8.3",
+    "ms": "^2.1.3",
+    "node-fetch": "^2.6.7",
+    "ocr-space-api-wrapper": "^2.1.3",
+    "openai": "^3.1.0",
+    "play-dl": "^1.9.6",
+    "rss-parser": "^3.12.0",
+    "sourcebin_js": "^0.0.3-ignore",
+    "spotify-web-api-js": "^1.5.2"
+  },
+  "devDependencies": {
+    "node": "^18.12.1",
+    "nodemon": "^2.0.20",
+    "prettier": "^2.8.2"
+  },
+  "_moduleAliases": {
+    "@root": ".",
+    "@config": "bot/config/",
+    "@function": "bot/functions/",
+    "@schema": "bot/database/schema"
+  },
+  "description": "private bot for bear base discord server."
+}

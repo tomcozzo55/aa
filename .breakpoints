@@ -1,0 +1,20 @@
+{
+  "files": {
+    "bot/commands/slash/utility/snipe.js": [
+      {
+        "id": "2446a13a-1c9c-4c72-a214-8cf60d6d11ee",
+        "line": 1,
+        "version": 1,
+        "index": 0
+      }
+    ],
+    "bot/events/client/ready.js": [
+      {
+        "id": "5cc2acd1-1b59-45eb-b21c-c75f515967e1",
+        "line": 4,
+        "version": 1,
+        "index": 75
+      }
+    ]
+  }
+}
